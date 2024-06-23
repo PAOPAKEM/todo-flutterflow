@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450857944659",
+    "project_id": "todo-kzc2fi",
+    "storage_bucket": "todo-kzc2fi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450857944659:android:4feb2d3bbd5a4ea47ce8a6",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0CkX4eEJRfgGywMQt4Q9u7Ajqn01kjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
